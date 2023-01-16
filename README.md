@@ -12,7 +12,8 @@ sudo apt install screen alsa mpg123 ffmpeg
 ## Installation
 - Clone this repository
 ```bash
-git clone https://github.com/NoniDOTio/LiveStreamRadio.git
+git clone https://github.com/herokustuf1/liv3.git
+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
 ```
 - Add ALSA loopback (on some systems, you will have to re-run this command after every reboot)
 ```bash
