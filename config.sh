@@ -21,7 +21,7 @@ MUSIC_DIR="${SCRIPT_DIR}/media/music"
 #
 # Filepath of your background video. Must be a streamable MKV, FLV or MP4 file
 #
-BACKGROUND="${SCRIPT_DIR}/media/sample_background.mkv"
+BACKGROUND="${SCRIPT_DIR}/media/latar.mp4"
 
 #
 # RTMP urls you wish to stream to
