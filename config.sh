@@ -27,7 +27,7 @@ BACKGROUND="${SCRIPT_DIR}/media/latar.mp4"
 # RTMP urls you wish to stream to
 #
 PLATFORMS=(
-        "rtmp://a.rtmp.youtube.com/live2/"4bze-5w9z-h4jz-h7hm-8fr7
+        "rtmp://a.rtmp.youtube.com/live2/2zus-tg8r-6r53-fks2-f0gp"
         "rtmp://server/key"
         "rtmp://server/key"
     )
